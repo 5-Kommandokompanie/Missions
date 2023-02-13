@@ -3,7 +3,7 @@
 set source="C:\Users\Janwo\OneDrive\Dokumente\Arma 3 - Other Profiles\[Major]%%20W%%c3%%b6de%%20%%7c%%20Master\missions"
 set dest=A:\modding\Missions
 
-set map1="Al Rayak\MilEvakOp.pja310"
+set map1=Al_Rayak\MilEvakOp.pja310
 set map2=Chernarus\260120.Chernarus_Winter
 set map3=Lythium\081800Anov20.lythium
 set map4=RHSPKL\211800Afeb21.rhspkl
