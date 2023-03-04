@@ -9,6 +9,7 @@ set map3=Lythium\081800Anov20.lythium
 set map4=RHSPKL\211800Afeb21.rhspkl
 set map5=Tanoa\11022023.Tanoa
 set map6=Tanoa\24022023.Tanoa
+set map7=Bornholm\04032023.Bornholm
 
 robocopy %source%\%map1% %dest%\%map1% /E
 robocopy %source%\%map2% %dest%\%map2% /E
@@ -16,6 +17,7 @@ robocopy %source%\%map3% %dest%\%map3% /E
 robocopy %source%\%map4% %dest%\%map4% /E
 robocopy %source%\%map5% %dest%\%map5% /E
 robocopy %source%\%map6% %dest%\%map6% /E
+robocopy %source%\%map7% %dest%\%map7% /E
 
 PING -n 2 127.0.0.1>nul
 
